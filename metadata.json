@@ -1,0 +1,5 @@
+{
+  "name": "MetaReview: Customer Sentiment Dashboard",
+  "description": "Analyze customer reviews, track sentiment trends, and compare firm promises against actual delivery using AI-powered insights and Google Search grounding.",
+  "requestFramePermissions": []
+}
